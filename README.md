@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Marcus
+## Oi! Eu sou o Marcus
  <div>
   <a href="https://github.com/MarcusVSRDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcusVSRDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
